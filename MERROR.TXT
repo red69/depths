@@ -1,0 +1,2 @@
+2009-09-29 00:41:27 - "Error 'Subscript out of range' occurred in MAINMOD2:mdrcharShowInfo."
+2010-03-06 23:06:35 - "Error 'Subscript out of range' occurred in MONSMOD:monGetSpellHits"
